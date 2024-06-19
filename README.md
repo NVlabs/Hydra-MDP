@@ -2,7 +2,7 @@
 
 ![](./asset/hydra-mdp.png)
 
-### [arXiv](https://arxiv.org/abs/2406.06978) | [Video](https://youtu.be/wfpLLSz5iWY?si=rVrKsO3oITTV-i1I) | [OpenDriveLab](https://www.bilibili.com/video/BV1Pi421i7Ch/) | [Blog](https://blogs.nvidia.com/blog/auto-research-cvpr-2024/) | [Challenge](https://opendrivelab.com/challenge2024/#end_to_end_driving_at_scale)
+### [arXiv](https://arxiv.org/abs/2406.06978) | [Talk(EN)](https://opendrivelab.com/cvpr2024/workshop/) | [Talk(CN)](https://www.bilibili.com/video/BV1Pi421i7Ch/) | [Coverage](https://youtu.be/wfpLLSz5iWY?si=rVrKsO3oITTV-i1I) | [DriveLabs](https://www.youtube.com/watch?v=06BXs-R-fQ8) | [Blog](https://blogs.nvidia.com/blog/auto-research-cvpr-2024/) | [Challenge](https://opendrivelab.com/challenge2024/#end_to_end_driving_at_scale)
 
 This repo contains the official implementation of Hydra-MDP. Hydra-MDP is a Transformer-based E2E Planning framework that uses Hydra-distillation to enable multi-target distillation from both human and rule-based teachers. 
 
