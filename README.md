@@ -13,6 +13,8 @@ This repo contains the official implementation of Hydra-MDP. Hydra-MDP is a Tran
 ## TODO
 Release code and models
 
+Currently, we are focusing on the legal process. The code will be released shortly.
+
 ## Citation
 
 ```
