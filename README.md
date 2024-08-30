@@ -11,9 +11,7 @@ This repo contains the official implementation of Hydra-MDP. Hydra-MDP is a Tran
 🏆Hydra-MDP won the 1st Place and Innovation Award of the [End-to-end Driving at Scale](https://opendrivelab.com/challenge2024/#end_to_end_driving_at_scale) Track at [CVPR24 Autonomous Grand Challenge](https://opendrivelab.com/challenge2024/).
 
 ## TODO
-Release code and models
-
-Currently, we are focusing on the legal process. The code will be released shortly.
+Delay in code and model release due to company policy. Stay tuned for updates.
 
 ## Citation
 
